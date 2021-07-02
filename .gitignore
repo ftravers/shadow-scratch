@@ -1,0 +1,7 @@
+/resources/public/out/
+/package-lock.json
+/node_modules/
+/.shadow-cljs/
+/.lsp/
+/.cpcache/
+/.nrepl-port
